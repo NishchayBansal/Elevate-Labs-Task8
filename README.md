@@ -1,6 +1,6 @@
 # Elevate-Labs-Task8
 
-**Task 8 :Identify and Remove Suspicious Browser Extensions**
+**Task 8: Working and understanding VPN**
 
 **Objective:** Understand the role of VPNs in protecting privacy and secure communication.
 
@@ -25,9 +25,11 @@ Here for our working, we chose “Windscribe”.
 **4. Verify your IP address has changed (use whatismyipaddress.com).**
 
 From : 
+
 ![image](https://github.com/user-attachments/assets/9325b667-3a24-4cdd-ae53-81b5ce5a4edc)
 
 To this:
+
 ![image](https://github.com/user-attachments/assets/90ea5168-36c0-4ce3-b28e-9efa951996d2)
 
 **5. Browse a website to confirm traffic is encrypted.**
@@ -52,16 +54,17 @@ VPNs create encrypted tunnels, or virtual connections, that protect your data fr
 
 **•	Protocols:** Different VPN providers use various encryption protocols, like OpenVPN, IPsec, and L2TP/IPsec. 
 
-**•	No-Logs Policy:** A no-logs policy, where the VPN provider doesn't keep records of your online activities, enhancing privacy by ensuring your browsing history hidden. 
+**•	No-Logs Policy:** A no-logs policy, where VPN provider doesn't keep records of your online activities, enhancing privacy, ensuring your browsing history hidden. 
 
 **Privacy Features:**
 
-**•	IP Address Masking:** VPNs redirect your internet traffic through a remote server, assigning you a new IP address, effectively hiding your real IP.
+**•	IP Address Masking:** VPNs redirect your internet traffic through a remote server, assigning you a new IP address, effectively hiding real IP.
 
 **•	Virtual Location:** You can choose a VPN server location to make it appear as if you're browsing from that location. 
 
 **•	Anonymization:** VPNs help anonymize your online activity by masking your identity and location.
-	
+
+ 
 **8. Write a summary on VPN benefits and limitations.**
 
 **Benefits:**
@@ -69,6 +72,7 @@ Enhanced Privacy, Secure Public Wi-fi, Bypassing Geo-blocks, Protection from Cyb
 
 **Limitations:**
 Slower Speeds, Subscription Costs, Not a Silver Bullet/ replacement for antivirus software, Potential Data Leaks, Geo-blocking Issues, Not Always Compatible,	Data Limits with Free VPNs.
+
 
 
 **_PFA the Deliverables and whole report_**
