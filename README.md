@@ -48,15 +48,15 @@ VPNs create encrypted tunnels, or virtual connections, that protect your data fr
 
 **Encryption:** 
 
-**•Data Encryption:** VPNs use encryption to scramble your data, making it unreadable to anyone who might try to intercept it, including hackers, cybercriminals, or even your ISP, etc. 
+**•Data Encryption:** VPNs use encryption to scramble your data, making it unreadable to anyone who might try to intercept it.
 
 **•	Protocols:** Different VPN providers use various encryption protocols, like OpenVPN, IPsec, and L2TP/IPsec. 
 
-**•	No-Logs Policy:** A no-logs policy, where the VPN provider doesn't keep records of your online activities,  enhancing privacy by ensuring your browsing history hidden. 
+**•	No-Logs Policy:** A no-logs policy, where the VPN provider doesn't keep records of your online activities, enhancing privacy by ensuring your browsing history hidden. 
 
 **Privacy Features:**
 
-**•	IP Address Masking:** VPNs redirect your internet traffic through a remote server, assigning you a new IP address, effectively hiding your real IP from websites and services. 
+**•	IP Address Masking:** VPNs redirect your internet traffic through a remote server, assigning you a new IP address, effectively hiding your real IP.
 
 **•	Virtual Location:** You can choose a VPN server location to make it appear as if you're browsing from that location. 
 
@@ -68,7 +68,7 @@ VPNs create encrypted tunnels, or virtual connections, that protect your data fr
 Enhanced Privacy, Secure Public Wi-fi, Bypassing Geo-blocks, Protection from Cyberattacks, Secure Remote Work,etc.
 
 **Limitations:**
-Slower Speeds, Subscription Costs,	Not a Silver Bullet/ replacement for antivirus software, Potential Data Leaks, Geo-blocking Issues, Not Always Compatible,	Data Limits with Free VPNs.
+Slower Speeds, Subscription Costs, Not a Silver Bullet/ replacement for antivirus software, Potential Data Leaks, Geo-blocking Issues, Not Always Compatible,	Data Limits with Free VPNs.
 
 
 **_PFA the Deliverables and whole report_**
