@@ -24,8 +24,11 @@ Here for our working, we chose “Windscribe”.
 
 **4. Verify your IP address has changed (use whatismyipaddress.com).**
 
-From : ![image](https://github.com/user-attachments/assets/9325b667-3a24-4cdd-ae53-81b5ce5a4edc)
-To this: ![image](https://github.com/user-attachments/assets/90ea5168-36c0-4ce3-b28e-9efa951996d2)
+From : 
+![image](https://github.com/user-attachments/assets/9325b667-3a24-4cdd-ae53-81b5ce5a4edc)
+
+To this:
+![image](https://github.com/user-attachments/assets/90ea5168-36c0-4ce3-b28e-9efa951996d2)
 
 **5. Browse a website to confirm traffic is encrypted.**
 
@@ -33,14 +36,19 @@ To this: ![image](https://github.com/user-attachments/assets/90ea5168-36c0-4ce3-
 
 **6. Disconnect VPN and compare browsing speed and IP.**
 
-Turning off a VPN resulted in a faster browsing speed, as the encryption and routing through a remote server no longer added latency. 
+**IP:** IP address changes. 
+
+**Browsing Speed :** Turning off a VPN resulted in a faster browsing speed, as the encryption and routing through a remote server no longer added latency. 
+However, the speed increase is usually not drastic, and might only be noticeable during specific tasks like streaming/downloading large files. 
 
 **7. Research VPN encryption and privacy features.**
 
 VPN encryption and privacy features work together to secure your online data and activity. 
 VPNs create encrypted tunnels, or virtual connections, that protect your data from unauthorized access while also concealing your IP address and masking your virtual location.
 
-**Encryption:** **•	Data Encryption: **VPNs use encryption to scramble your data, making it unreadable to anyone who might try to intercept it, including hackers, cybercriminals, or even your ISP, etc. 
+**Encryption:** 
+
+**•Data Encryption:** VPNs use encryption to scramble your data, making it unreadable to anyone who might try to intercept it, including hackers, cybercriminals, or even your ISP, etc. 
 
 **•	Protocols:** Different VPN providers use various encryption protocols, like OpenVPN, IPsec, and L2TP/IPsec. 
 
@@ -61,5 +69,6 @@ Enhanced Privacy, Secure Public Wi-fi, Bypassing Geo-blocks, Protection from Cyb
 
 **Limitations:**
 Slower Speeds, Subscription Costs,	Not a Silver Bullet/ replacement for antivirus software, Potential Data Leaks, Geo-blocking Issues, Not Always Compatible,	Data Limits with Free VPNs.
+
 
 **_PFA the Deliverables and whole report_**
