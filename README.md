@@ -8,6 +8,8 @@
 
 **Deliverables:** Report describing VPN setup steps and connection status screenshot.
 
+
+
 **1. Choose a reputable free VPN service and sign up.**
 
 Here for our working, we chose “Windscribe”.
@@ -48,7 +50,7 @@ However, the speed increase is usually not drastic, and might only be noticeable
 VPN encryption and privacy features work together to secure your online data and activity. 
 VPNs create encrypted tunnels, or virtual connections, that protect your data from unauthorized access while also concealing your IP address and masking your virtual location.
 
-**Encryption:** 
+**_Encryption:_** 
 
 **•Data Encryption:** VPNs use encryption to scramble your data, making it unreadable to anyone who might try to intercept it.
 
@@ -56,7 +58,7 @@ VPNs create encrypted tunnels, or virtual connections, that protect your data fr
 
 **•	No-Logs Policy:** A no-logs policy, where VPN provider doesn't keep records of your online activities, enhancing privacy, ensuring your browsing history hidden. 
 
-**Privacy Features:**
+**_Privacy Features:_**
 
 **•	IP Address Masking:** VPNs redirect your internet traffic through a remote server, assigning you a new IP address, effectively hiding real IP.
 
